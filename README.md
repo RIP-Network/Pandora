@@ -8,9 +8,8 @@ Espero que te guste y le des una estrella a mí GitHub y compartirlo.
 
 $git clone https://github.com/RIP-Network/Pandora
 
-$bash install.sh
-
 $bash pandora.sh
+![Screenshot](photo_2022-08-29_11-47-42.jpg)
 
 # Mi canal de YT
 
