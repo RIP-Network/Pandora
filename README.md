@@ -1,6 +1,9 @@
 # Pandora
 Pandora es una herramienta creada con varios tipos de usos , entre ellos incluyen el espionaje , crackeador y más .
-![Screenshot](64-La-caja-de-Pandora-1.jpg)
+
+Espero que te guste y le des una estrella a mí GitHub y compartirlo.
+
+![Screenshot](1641810311920.jpeg)
 # Instalación
 
 $git clone https://github.com/RIP-Network/Pandora
