@@ -8,3 +8,7 @@ $git clone https://github.com/RIP-Network/Pandora
 $bash install.sh
 
 $bash pandora.sh
+
+# Mi canal de YT
+
+https://youtube.com/channel/UCwYRhxoXiqlDpBp-HjjzQ7w
